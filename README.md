@@ -10,7 +10,7 @@ Plug in for sublime to open in github the commit that made the changes to the cu
 cd "$PACKAGES_DIR"
 git clone git@github.com:bodyshopbidsdotcom/sublime-github-commit.git
 ```
-Where `PACKAGES_DIR` is the directory. For example
+Where `PACKAGES_DIR` is something like this
 ```
 PACKAGES_DIR="/Users/santiago/Library/Application Support/Sublime Text 3/Packages"
 ```
