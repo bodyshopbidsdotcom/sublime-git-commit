@@ -1,0 +1,7 @@
+[
+  {
+    "id": "GithubCommit",
+    "caption": "Open commit in Github",
+    "command": "github_commit"
+  }
+]
