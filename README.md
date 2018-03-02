@@ -15,6 +15,7 @@ Where `PACKAGES_DIR` is something like this
 PACKAGES_DIR="/Users/santiago/Library/Application Support/Sublime Text 3/Packages"
 ```
 Your path can be found here:
+
 ![image](https://user-images.githubusercontent.com/876161/36920628-e99c8c5a-1e26-11e8-8306-63cf1e54432b.png)
 
 2. Restart sublime
